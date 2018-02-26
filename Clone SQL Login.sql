@@ -1,4 +1,5 @@
-/****** Clone a SQL Server Login with server and database permissions ********************************************************
+/****** Clone a SQL Server Login with server and database permissions *********
+Source: www.mssqltips.com/sqlservertip/3648/how-to-clone-a-sql-server-login-part-3-of-3
 
 Step 1: Creation 5 stored procedures
 CloneLoginAndAllDBPerms <- master script
